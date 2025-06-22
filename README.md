@@ -80,3 +80,6 @@ This version includes improved extraction capabilities for:
 **Omm Prakash Pradhan**  
 Contact: 8117817687  
 Email: ommprakashpradhan1@gmail.com
+
+## License
+[BSD-3-Clause](LICENSE)
